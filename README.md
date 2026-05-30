@@ -12,8 +12,6 @@ Meu objetivo é transformar conhecimento em soluções reais, criando aplicaçõ
 
 ## 💻 Tecnologias que estudo
 
-
-
 ### Front-end
 
 * HTML
@@ -55,25 +53,6 @@ Meu objetivo é transformar conhecimento em soluções reais, criando aplicaçõ
 * Lovable
 * Técnico em TI
 * Desenvolvimento de Sistemas (Em andamento)
-
----
-
-## 🎯 Atualmente
-
-* Aprendendo Node.js
-* Aprendendo desenvolvimento Full Stack
-* Construindo meu portfólio profissional
-* Desenvolvendo projetos pessoais
-
----
-
-## 📈 Objetivos para 2026
-
-* Criar projetos Full Stack completos
-* Aprender APIs REST
-* Aprimorar conhecimentos em banco de dados
-* Conseguir minha primeira oportunidade na área de tecnologia
-* Contribuir com projetos open source
 
 ---
 
